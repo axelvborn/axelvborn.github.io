@@ -8,7 +8,7 @@
 
 #### Game Jams
 
-[View all jam games]
+[View all jam games](gamejams.md)
 
 #### Other Games
 

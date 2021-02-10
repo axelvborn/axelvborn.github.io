@@ -8,6 +8,8 @@
 
 #### Game Jams
 
+[View all jam games]
+
 #### Other Games
 
 ### Other

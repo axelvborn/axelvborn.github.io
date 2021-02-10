@@ -8,7 +8,7 @@
 
 #### Game Jams
 
-#### Other
+#### Other Games
 
 ### Other
 

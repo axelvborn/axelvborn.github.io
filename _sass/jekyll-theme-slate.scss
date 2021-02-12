@@ -229,19 +229,23 @@ hr {
 }
 
 table {
-  border: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
   margin-bottom: 20px;
   text-align: left;
   vertical-align: top;
  }
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  padding: 10px;
+  font: inherit;
+  padding: 0px;
  }
 
 td {
-  padding: 10px;
+  font: inherit;
+  padding: 0px;
   border: 0px;
  }
 

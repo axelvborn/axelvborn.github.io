@@ -6,6 +6,10 @@
 
 ### Game Jams
 
+![Chromasphere](/img/chromasphere.png)
+#### Chromasphere
+Ludum Dare
+
 [View all jam games](gamejams.md)
 
 ### Other Games

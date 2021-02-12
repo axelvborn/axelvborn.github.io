@@ -8,8 +8,7 @@
 [View all jam games](gamejams.md)
 #### Chromasphere
 
-| <img src="/img/chromasphere.png" width="320" height="180"> | *Ludum Dare 46 - Theme : Keep it Alive - April 2020*\
-**I did :** Everything except Audio.\
+| <img src="/img/chromasphere.png" width="320" height="180"> | *Ludum Dare 46 - Theme : Keep it Alive - April 2020*<br>**I did :** Everything except Audio.<br>
 **Description** : Twin-stick shooter about colors. |
 | --- | --- |
 

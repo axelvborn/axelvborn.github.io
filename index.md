@@ -7,14 +7,7 @@
 ### Game Jams
 [View all jam games](gamejams.md)
 #### Chromasphere
-<table><tbody><tr>
-<td><img src="/img/chromasphere.png" width="320" height="180"></td>
-<td>
-*Ludum Dare 46 - Theme : Keep it Alive - April 2020*  
-**I did :** Everything except Audio.  
-**Description** : Twin-stick shooter about colors.
-</td>
-</tr></tbody></table>
+|<img src="/img/chromasphere.png" width="320" height="180"></td>|*Ludum Dare 46 - Theme : Keep it Alive - April 2020*<br>**I did :** Everything except Audio.<br>**Description** : Twin-stick shooter about colors.
 
 [Itch.io link](https://axelvborn.itch.io/chromasphere) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/46/chromasphere)
 ### Other Games

@@ -239,16 +239,17 @@ table {
 th {
   font: inherit;
   padding: 0px;
+  margin: 25px;
+ }
+
+ th img{
+     margin: -25px;
  }
 
 td {
   font: inherit;
   padding: 0px;
   border: 0px;
- }
-
- td p {
-     margin-left: 25px;
  }
 
 form {

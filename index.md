@@ -1,20 +1,18 @@
-# Axel BORN
+# Works
 
-## Works
-
-### Video Games
+## Video Games
 
 [Itch.io Portfolio](https://axelvborn.itch.io/)
 
-#### Game Jams
+### Game Jams
 
 [View all jam games](gamejams.md)
 
-#### Other Games
+### Other Games
 
-### Other
+## Other
 
-## Contact
+# Contact
 
 **Mail :** <axelvborn@gmail.com>
 **Discord :** Vladadamm#3001

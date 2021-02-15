@@ -14,6 +14,7 @@
 | <img src="/img/tribalofferings.png" width="320" height="180"> | *Ludum Dare 45  -  Theme : Start with nothing  -  Team size : 2  -  October 2019*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** God game where you have to keep tribes alive.<br><br>[Itch.io link](https://axelvborn.itch.io/tribalofferings) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/45/tribal-offerings) |
 | --- | --- |
 #### [View more jam games](gamejams.md)
+## 
 ### Other Games
 #### Untitled game
 

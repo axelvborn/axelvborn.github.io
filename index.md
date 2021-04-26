@@ -22,3 +22,7 @@
 | --- | --- |
 
 ## Other
+### Modding
+#### Games I have modded for
+- **Pro Cycling Manager** - Custom jerseys, database & file modification *(2018-Now)*
+- **Warcraft 3** - Custom maps, spells, etc... *(2010-2014)*

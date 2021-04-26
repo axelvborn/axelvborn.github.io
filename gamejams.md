@@ -12,7 +12,7 @@
 ### 2020
 #### Fonzy Simulator
 
-| <img src="/img/fonzysimulator.png" width="320" height="180"> | *Perpignan Game Jam 2020  -  Theme : Donation  -  Team size : 4  -  October 2020  - 🥈 Overall*<br><br>**What I did :** Programming.<br><br>**Description :** Casual mobile game about sperm donation.<br><br>[Itch.io link](https://awesomegameconcepts.itch.io/fonzy-simulator) |
+| <img src="/img/fonzysimulator.png" width="320" height="180"> | *Perpignan Game Jam 2020  -  Theme : Donation  -  Team size : 4  -  October 2020  - 🥈 Overall*<br><br>**What I did :** Programming<br><br>**Description :** Casual mobile game about sperm donation.<br><br>[Itch.io link](https://awesomegameconcepts.itch.io/fonzy-simulator) |
 | --- | --- |
 #### Chromasphere
 

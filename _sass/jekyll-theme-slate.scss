@@ -327,6 +327,16 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+.resume img {
+  border: 1px solid #dfdfdf;
+
+  box-shadow: 0 0 3px #dfdfdf;
+  -webkit-box-shadow: 0 0 3px #dfdfdf;
+  -moz-box-shadow: 0 0 3px #dfdfdf;
+  -o-box-shadow: 0 0 3px #dfdfdf;
+  -ms-box-shadow: 0 0 3px #dfdfdf;
+}
+
 #downloads {
   position: absolute;
   width: 210px;

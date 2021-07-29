@@ -3,7 +3,7 @@
 ### 2021
 #### Into the Storm
 
-| <img src="/img/intothestorm.png" width="320" height="180"> | *Ludum Dare 48  -  Theme : Deeper and Deeper  -  Team size : 1  -  April 2021*<br><br>**What I did :** Programming, Design, Narration<br><br>**Description :** Short narrative flight game.<br><br>[Itch.io link](https://axelvborn.itch.io/into-the-storm) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/48/into-the-storm) |
+| <img src="/img/intothestorm.png" width="320" height="180"> | *Ludum Dare 48  -  Theme : Deeper and Deeper  -  Team size : 1  -  April 2021*<br><br>**What I did :** Programming, Design, Narration, Graphics (partly)<br><br>**Description :** Short narrative flight game.<br><br>[Itch.io link](https://axelvborn.itch.io/into-the-storm) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/48/into-the-storm) |
 | --- | --- |
 #### The Last Journey
 

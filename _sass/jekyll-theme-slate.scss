@@ -89,7 +89,7 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  margin: 8px 0 12px 0;
 }
 
 footer p {
@@ -233,7 +233,7 @@ table {
   font: inherit;
   margin-bottom: 20px;
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
  }
 
 th {
@@ -266,9 +266,8 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  min-width: 960px;
-  max-width: 960px;
-  padding: 20px 10px;
+  width: 960px;
+  padding: 10px 10px;
   margin: 0 auto;
 }
 
@@ -297,7 +296,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 15px 10px 15px 10px;
 }
 
 #project_title, #project_title a {
@@ -383,7 +382,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 #footer_wrap {

@@ -4,7 +4,7 @@
 
 ### Skew Pong
 
-| <img src="/img/skewpong.png" width="320" height="180"> | **Ludum Dare 49**<br>*Theme : Unstable  -  Team size : 1  -  October 2021*<br><br>**What I did :** Programming, Design, Graphics<br><br>**Description :** Pong with the twist of an unstable terrain.<br><br>[Itch.io link](https://axelvborn.itch.io/skew-pong) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/49/skew-pong) |
+| <img src="/img/skewpong.png" width="320" height="180"> | **Ludum Dare 49**<br>*Theme : Unstable  -  Team size : 2  -  October 2021*<br><br>**What I did :** Programming, Design, Graphics<br><br>**Description :** Pong with the twist of an unstable terrain.<br><br>[Itch.io link](https://axelvborn.itch.io/skew-pong) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/49/skew-pong) |
 | --- | --- |
 </div>
 <div class="game">

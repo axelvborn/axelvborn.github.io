@@ -138,9 +138,12 @@ h6 {
 }
 
 h1 {
-  display: none;
   font-size: 36px;
   font-weight: 700;
+}
+
+.inner h1 {
+  display: none;
 }
 
 h2 {

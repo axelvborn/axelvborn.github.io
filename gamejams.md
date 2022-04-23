@@ -1,4 +1,20 @@
 # Game Jams
+## 2022
+<div class="game">
+
+### Delay Ludum Dare
+
+| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 49**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>*6th Innovation, 7th Humor, 20th Theme (out of 805 Compo Games)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to modify the countdowns on Ludum Dare's website.<br><br>[Github link](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
+| --- | --- |
+</div>
+<div class="game">
+
+### GGJ 2022 Toulouse (Organizer)
+
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2022**<br>*Online - 50 participants  -  January 2022*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ link](https://globalgamejam.org/2022/jam-sites/ggj-toulouse-game-dev) |
+| --- | --- |
+</div>
+
 ## 2021
 <div class="game">
 
@@ -18,7 +34,13 @@
 
 ### The Last Journey
 
-| <img src="/img/thelastjourney.png" width="320" height="180"> | **Global Game Jam 2021**<br>*Theme : Lost & Found  -  Team size : 5  -  January 2021*<br><br>**What I did :** Additional Programming (Organizing Jam)<br><br>**Description :** Asymetric online cooperation game.<br><br>[Itch.io link](https://gostique.itch.io/the-last-journey) - [GGJ link](https://globalgamejam.org/2021/games/last-journey-0) |
+| <img src="/img/thelastjourney.png" width="320" height="180"> | **Global Game Jam 2021**<br>*Theme : Lost & Found  -  Team size : 5  -  January 2021*<br><br>**What I did :** Additional Programming<br>*(Next to Organizing Jam)*<br><br>**Description :** Asymetric online cooperation game.<br><br>[Itch.io link](https://gostique.itch.io/the-last-journey) - [GGJ link](https://globalgamejam.org/2021/games/last-journey-0) |
+| --- | --- |
+</div>
+
+### GGJ 2021 Toulouse (Organizer)
+
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2021**<br>*Online - 60 participants  -  January 2021*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ link](https://globalgamejam.org/2021/jam-sites/toulouse-game-dev) |
 | --- | --- |
 </div>
 

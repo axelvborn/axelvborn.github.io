@@ -4,7 +4,7 @@
 
 ### Delay Ludum Dare
 
-| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>*📊 6th Innovation, 7th Humor, 20th Theme (/805)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to modify the countdowns on Ludum Dare's website.<br><br>[Github link](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
+| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>📊 *6th Innovation, 7th Humor, 20th Theme (/805)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to modify the countdowns on Ludum Dare's website.<br><br>[Github link](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
 | --- | --- |
 </div>
 <div class="game">

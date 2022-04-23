@@ -4,14 +4,14 @@
 
 ### Delay Ludum Dare
 
-| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>*6th Innovation, 7th Humor, 20th Theme (out of 805 Compo Games)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to modify the countdowns on Ludum Dare's website.<br><br>[Github link](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
+| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>*6th Innovation, 7th Humor, 20th Theme (/805)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to modify the countdowns on Ludum Dare's website.<br><br>[Github link](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare link](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
 | --- | --- |
 </div>
 <div class="game">
 
 ### GGJ 2022 Toulouse (Organizer)
 
-| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2022**<br>*Online - 50 participants  -  January 2022*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ link](https://globalgamejam.org/2022/jam-sites/ggj-toulouse-game-dev) |
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2022**<br>*Online - 50 participants  -  January 2022*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ Site link](https://globalgamejam.org/2022/jam-sites/ggj-toulouse-game-dev) |
 | --- | --- |
 </div>
 
@@ -41,7 +41,7 @@
 
 ### GGJ 2021 Toulouse (Organizer)
 
-| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2021**<br>*Online - 60 participants  -  January 2021*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ link](https://globalgamejam.org/2021/jam-sites/toulouse-game-dev) |
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2021**<br>*Online - 60 participants  -  January 2021*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ Site link](https://globalgamejam.org/2021/jam-sites/toulouse-game-dev) |
 | --- | --- |
 </div>
 

@@ -11,9 +11,6 @@
 | --- | --- |
 </div>
 
-
-
-
 ## Game Jams
 <div class="game">
 

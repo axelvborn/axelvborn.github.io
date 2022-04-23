@@ -209,13 +209,31 @@ strong {
   font-weight: bold;
 }
 
-img,
-.game object {
+img {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
   border: 1px solid #c8c8c8;
 
+  box-shadow: 0 0 3px #c8c8c8;
+  -webkit-box-shadow: 0 0 3px #c8c8c8;
+  -moz-box-shadow: 0 0 3px #c8c8c8;
+  -o-box-shadow: 0 0 3px #c8c8c8;
+  -ms-box-shadow: 0 0 3px #c8c8c8;
+}
+
+.trailerscreen {
+  width: 240px;
+  height: 135px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.trailer {
+  width: 480px;
+  height: 270px;
+
+  border: 1px solid #c8c8c8;
   box-shadow: 0 0 3px #c8c8c8;
   -webkit-box-shadow: 0 0 3px #c8c8c8;
   -moz-box-shadow: 0 0 3px #c8c8c8;

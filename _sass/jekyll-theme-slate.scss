@@ -209,17 +209,18 @@ strong {
   font-weight: bold;
 }
 
-img {
+img,
+.game object {
   position: relative;
   margin: 0 auto;
   max-width: 739px;
-  border: 1px solid #dfdfdf;
+  border: 1px solid #c8c8c8;
 
-  box-shadow: 0 0 5px #dfdfdf;
-  -webkit-box-shadow: 0 0 5px #dfdfdf;
-  -moz-box-shadow: 0 0 5px #dfdfdf;
-  -o-box-shadow: 0 0 5px #dfdfdf;
-  -ms-box-shadow: 0 0 5px #dfdfdf;
+  box-shadow: 0 0 3px #c8c8c8;
+  -webkit-box-shadow: 0 0 3px #c8c8c8;
+  -moz-box-shadow: 0 0 3px #c8c8c8;
+  -o-box-shadow: 0 0 3px #c8c8c8;
+  -ms-box-shadow: 0 0 3px #c8c8c8;
 }
 
 p img {

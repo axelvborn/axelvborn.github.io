@@ -7,7 +7,7 @@
 </div>
 <div class="game">
 
-| <img src="/img/skewpong1.png" width="240" height="135" margin-right="0px"><img src="/img/skewpong2.png" width="240" height="135" margin-right="0px"> | <object width="480" height="270" data="https://www.youtube.com/embed/xPdqruL4oyg"></object> |
+| <img src="/img/skewpong1.png" width="224" height="126" margin-right="0px"><img src="/img/skewpong2.png" width="224" height="126" margin-right="0px"> | <object width="464" height="261" data="https://www.youtube.com/embed/xPdqruL4oyg"></object> |
 | --- | --- |
 </div>
 

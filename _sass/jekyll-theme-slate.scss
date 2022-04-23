@@ -4,19 +4,80 @@
 MeyerWeb Reset
 *******************************************************************************/
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
 /*table, caption, tbody, tfoot, thead, tr, th, td,*/
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -25,12 +86,22 @@ time, mark, audio, video {
 }
 
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
 }
 
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
 
@@ -45,7 +116,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
+  color: #373737;
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -53,10 +124,15 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color: #222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -114,7 +190,8 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
   text-decoration: underline;
 }
 
@@ -123,7 +200,8 @@ footer a {
   text-decoration: underline;
 }
 
-em, cite {
+em,
+cite {
   font-style: italic;
 }
 
@@ -153,7 +231,8 @@ p img {
   border: none;
 }
 
-pre, code {
+pre,
+code {
   color: #222;
   background-color: #fff;
 
@@ -167,14 +246,14 @@ pre, code {
 
 pre {
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   overflow: auto;
 }
 
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
 }
 
 pre code {
@@ -190,7 +269,9 @@ blockquote {
 }
 
 
-ul, ol, dl {
+ul,
+ol,
+dl {
   margin-bottom: 15px
 }
 
@@ -234,22 +315,22 @@ table {
   font: inherit;
   margin-bottom: 15px;
   vertical-align: middle;
- }
+}
 
 th {
   font: inherit;
   padding: 0px;
- }
+}
 
 th img {
-     margin-right : 10px;
- }
+  margin-right: 10px;
+}
 
 td {
   font: inherit;
   padding: 0px;
   border: 0px;
- }
+}
 
 form {
   background: #f2f2f2;
@@ -285,7 +366,8 @@ Full-Width Styles
   padding: 15px 10px 15px 10px;
 }
 
-#project_title, #project_title a {
+#project_title,
+#project_title a {
   margin: 0;
   color: #fff;
   font-size: 42px;
@@ -333,7 +415,14 @@ Full-Width Styles
   text-align-last: justify;
 }
 
-#main_content h1, #main_content h2, #main_content h3, #main_content h4, #main_content p, #main_content div, #main_content ul, #main_content li {
+#main_content h1,
+#main_content h2,
+#main_content h3,
+#main_content h4,
+#main_content p,
+#main_content div,
+#main_content ul,
+#main_content li {
   text-align: left;
   text-align-last: left;
 }
@@ -349,13 +438,14 @@ Full-Width Styles
 
 .game {
   display: inline-block;
-  width: 700px;
+  width: 720px;
 }
 
 .contact {
   text-align: justify;
   text-align-last: justify;
 }
+
 .contact div {
   display: inline-block;
   color: #f2f2f2;
@@ -365,7 +455,7 @@ Full-Width Styles
 
 @media screen and (min-width: 1500px) {
   .inner {
-    width:1450px;
+    width: 1450px;
   }
 }
 

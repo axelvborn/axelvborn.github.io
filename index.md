@@ -8,7 +8,7 @@
 </div>
 <div class="game">
 
-| <img class="trailerscreen" src="/img/skewpong1.png"><img class="trailerscreen" src="/img/skewpong2.png"> | <object class="trailer" data="https://www.youtube.com/embed/xPdqruL4oyg"></object> |
+| <img class="trailerscreen" src="/img/skewpong1.png"><img class="trailerscreen" src="/img/skewpong2.png"> | <object class="trailer" data="https://www.youtube.com/embed/ntJSHspAGUQ"></object> |
 | --- | --- |
 </div>
 

@@ -49,7 +49,7 @@
 
 ### Untitled game
 
-| <img src="/img/missingimage.png" width="320" height="180"> | **Solo project**<br>*2018-2019*<br><br>**What I did :** Programming, UI Design<br><br>**Description :** Racing/platformer game with an integrated level editor.<br><br>[Itch.io](https://axelvborn.itch.io/slidedemo)
+| <img src="/img/escapegame.png" width="320" height="180"> | **Solo project**<br>*2018-2019*<br><br>**What I did :** Programming, UI Design<br><br>**Description :** Racing/platformer game with an integrated level editor.<br><br>[Itch.io](https://axelvborn.itch.io/slidedemo)
 | --- | --- |
 </div>
 

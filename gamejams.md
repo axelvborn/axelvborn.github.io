@@ -97,7 +97,7 @@
 
 ### The Last Ball
 
-| <img src="/img/missingimage.png" width="320" height="180"> | **It's Jam Time (Enseeiht)**<br>*Theme : The Last  -  Team size : 1  -  May 2018*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** Platformer where you gain powerups.<br><br>[Itch.io](https://axelvborn.itch.io/the-last-ball) |
+| <img src="/img/thelastball.png" width="320" height="180"> | **It's Jam Time (Enseeiht)**<br>*Theme : The Last  -  Team size : 1  -  May 2018*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** Platformer where you gain powerups.<br><br>[Itch.io](https://axelvborn.itch.io/the-last-ball) |
 | --- | --- |
 </div>
 <div class="game">

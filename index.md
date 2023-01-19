@@ -44,7 +44,7 @@
 
 #### [View more jam games](gamejams.md)
 
-## Other Games
+## Other Prototypes
 <div class="game">
 
 ### Untitled game
@@ -55,5 +55,5 @@
 
 ## Modding
 ### Games I have modded on
-- **Pro Cycling Manager** - Custom jerseys, database & other files modifications *(2018-Now)*
+- **Pro Cycling Manager** - Database editing, custom jerseys, stages (levels) creation, other files modifications *(2018-Now)*
 - **Warcraft 3** - Custom maps, spells, etc... *(2010-2014)*

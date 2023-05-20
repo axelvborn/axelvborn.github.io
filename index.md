@@ -15,6 +15,13 @@
 ## Game Jams
 <div class="game">
 
+### Alea Ludum Dare
+
+| <img src="/img/aleald.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delivery  -  Team size : 1 -  April 2023*<br>📊 *9th Innovation (/491)*<br><br>**What I did :** Programming<br><br>**Description :** Browser Extension that adds a 'Random' sort to the LD Website + Web Page to get random LD games.<br><br>[Github](https://github.com/axelvborn/AleaLudumDare) - [Ludum Dare](https://ldjam.com/events/ludum-dare/53/alea-ludum-dare) - [Web Page](https://axelvborn.github.io/AleaLudumDare/)|
+| --- | --- |
+</div>
+<div class="game">
+
 ### Toys War Adventure
 
 | <img src="/img/toyswaradventure.png" width="320" height="180"> | **Ludum Dare 51**<br>*Theme : Every 10 Seconds  -  Team size : 7  -  October 2022*<br><br>**What I did :** Programming<br><br>**Description :** FPS where the player's weapon changes periodically.<br><br>[Itch.io](https://rewar.itch.io/toys-war-adventure) - [Ludum Dare](https://ldjam.com/events/ludum-dare/51/toys-war-adventure) |
@@ -34,17 +41,24 @@
 | <img src="/img/skewpong.png" width="320" height="180"> | **Ludum Dare 49**<br>*Theme : Unstable  -  Team size : 2  -  October 2021*<br><br>**What I did :** Programming, Design, Graphics<br><br>**Description :** Pong with the twist of an unstable terrain.<br><br>[Itch.io](https://axelvborn.itch.io/skew-pong-ld) - [Ludum Dare](https://ldjam.com/events/ludum-dare/49/skew-pong) |
 | --- | --- |
 </div>
-<div class="game">
-
-### Into the Storm
-
-| <img src="/img/intothestorm.png" width="320" height="180"> | **Ludum Dare 48**<br>*Theme : Deeper and Deeper  -  Team size : 1  -  April 2021*<br><br>**What I did :** Programming, Design, Narration, Graphics (partly)<br><br>**Description :** Short narrative flight game.<br><br>[Itch.io](https://axelvborn.itch.io/into-the-storm) - [Ludum Dare](https://ldjam.com/events/ludum-dare/48/into-the-storm) |
-| --- | --- |
-</div>
 
 #### [View more jam games](gamejams.md)
 
 ## Other Prototypes
+<div class="game">
+
+### Breakout Survivors
+
+| <img src="/img/breakoutsurvivors.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** Mashup between Breakout & Vampire Survivors kind of gameplay.<br><br>[Itch.io](https://axelvborn.itch.io/breakout-survivors)
+| --- | --- |
+</div>
+<div class="game">
+
+### Ouroboros
+
+| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
+| --- | --- |
+</div>
 <div class="game">
 
 ### Untitled game
@@ -52,6 +66,16 @@
 | <img src="/img/escapegame.png" width="320" height="180"> | **Way too ambitious project**<br>*2018-2019 - Team Size : 2*<br><br>**What I did :** Programming, UI Design<br><br>**Description :** Racing/platformer game with an integrated level editor.<br><br>[Itch.io](https://axelvborn.itch.io/slidedemo)
 | --- | --- |
 </div>
+
+## Talks & Articles
+### Talks
+<img src="/img/flag_gb.png" width="21" height="14"> **Releasing Your First Game - Skew Pong Post-Mortem (Translated & Updated)** #notGDC, March 2023 - [Slides](https://docs.google.com/presentation/d/1IAPnOzHAPlmAIAQRigRUXwMwNDNdlKVUJC_k767TL8M//)  
+<img src="/img/flag_fr.png" width="21" height="14"> **Releasing Your First Game - Skew Pong Post-Mortem** @Toulouse Game Dev, November 2022 - [Slides](https://docs.google.com/presentation/d/1IPtdJnGHGPjCmRjji9wqkr8cE41pzKLalsOJBQKbvPk/)  
+<img src="/img/flag_fr.png" width="21" height="14"> **Moddability - Making Moddable Games** @Toulouse Game Dev, November 2020 - [Youtube](https://www.youtube.com/watch?v=GSMNsUm3MR0)
+
+### Others
+<img src="/img/flag_fr.png" width="21" height="14"> **Round Table on Game Jams** @Toulouse Game Dev Twitch Channel, February 2023 - [Youtube](https://www.youtube.com/watch?v=9PM8xIIa0VM)<br>
+<img src="/img/flag_fr.png" width="21" height="14"> **What to do after a Game Jam (mini-talk)** @Global Game Jam 2022/Toulouse Game Dev, January 2022
 
 ## Modding
 ### Games I have modded on

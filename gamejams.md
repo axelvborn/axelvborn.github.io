@@ -22,6 +22,7 @@
 | <img src="/img/ggjtgdxynov.png" width="320" height="180"> | **Global Game Jam 2023**<br>*On site + Online  -  100 participants  -  February 2023*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, 8h of Live Streaming & helping the participants with programming related issues.<br><br>[GGJ Site](https://globalgamejam.org/2023/jam-sites/ggj-toulouse-tgdxynov) |
 | --- | --- |
 </div>
+
 ## 2022
 <div class="game">
 

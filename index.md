@@ -69,7 +69,7 @@
 
 ## Talks & Articles
 ### Talks
-<img src="/img/flag_fr.png" width="21" height="14"> **Toolbox - List of 'easily fixable' issues** @Toulouse Game Dev, June 2023 - [Youtube](https://www.youtube.com/watch?v=ApdMWjgomf4)  
+<img src="/img/flag_fr.png" width="21" height="14"> **Toolbox - List of 'Easily Fixable' Issues** @Toulouse Game Dev, June 2023 - [Youtube](https://www.youtube.com/watch?v=ApdMWjgomf4)  
 <img src="/img/flag_gb.png" width="21" height="14"> **Releasing Your First Game - Skew Pong Post-Mortem (Translated & Updated)** #notGDC, March 2023 - [Slides](https://docs.google.com/presentation/d/1IAPnOzHAPlmAIAQRigRUXwMwNDNdlKVUJC_k767TL8M//)  
 <img src="/img/flag_fr.png" width="21" height="14"> **Releasing Your First Game - Skew Pong Post-Mortem** @Toulouse Game Dev, November 2022 - [Slides](https://docs.google.com/presentation/d/1IPtdJnGHGPjCmRjji9wqkr8cE41pzKLalsOJBQKbvPk/)  
 <img src="/img/flag_fr.png" width="21" height="14"> **Moddability - Making Moddable Games** @Toulouse Game Dev, November 2020 - [Youtube](https://www.youtube.com/watch?v=GSMNsUm3MR0)

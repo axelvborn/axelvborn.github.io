@@ -1,5 +1,17 @@
 # Portfolio
-## Released Games
+## Commercial Games
+### Breakout Survivors
+<div class="game">
+
+| <img src="/img/breakoutsurvivorsvertcapsule.png" width="180" height="270"> | **Releases on :** 30th November 2023<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Arcade, Bullet Heaven, Roguelike<br><br>**Description :** Breakout gameplay meets Survivors-like mechanics. Use your balls to destroy bricks, level up and pick upgrades to hold your ground against waves of incoming bricks and try to high score in this roguelite breakout. <br><br>**[Steam Page](https://store.steampowered.com/app/2468060/Breakout_Survivors/) - [Itch.io Page](https://axelvborn.itch.io/breakout-survivors)** |
+| --- | --- |
+</div>
+<div class="game">
+
+| <img class="trailerscreen" src="/img/breakoutsurvivors1.png"><img class="trailerscreen" src="/img/breakoutsurvivors2.png"> | <object class="trailer" data="https://www.youtube.com/embed/Gs_7y_-o010"></object> |
+| --- | --- |
+</div>
+
 ### Skew Pong
 <div class="game">
 
@@ -47,16 +59,9 @@
 ## Other Prototypes
 <div class="game">
 
-### Breakout Survivors
-
-| <img src="/img/breakoutsurvivors.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** Mashup between Breakout & Vampire Survivors kind of gameplay.<br><br>[Itch.io](https://axelvborn.itch.io/breakout-survivors)
-| --- | --- |
-</div>
-<div class="game">
-
 ### Ouroboros
 
-| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
+| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Currently on Hold - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
 | --- | --- |
 </div>
 <div class="game">

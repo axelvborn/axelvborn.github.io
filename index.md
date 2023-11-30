@@ -3,12 +3,12 @@
 ### Breakout Survivors
 <div class="game">
 
-| <img src="/img/breakoutsurvivorsvertcapsule.png" width="180" height="270"> | **Releases on :** 30th November 2023<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Arcade, Bullet Heaven, Roguelike<br><br>**Description :** Breakout gameplay meets Survivors-like mechanics. Use your balls to destroy bricks, level up and pick upgrades to hold your ground against waves of incoming bricks and try to high score in this roguelite breakout. <br><br>**[Steam Page](https://store.steampowered.com/app/2468060/Breakout_Survivors/) - [Itch.io Page](https://axelvborn.itch.io/breakout-survivors)** |
+| <img src="/img/breakoutsurvivorsvertcapsule.png" width="180" height="270"> | **Released :** 30th November 2023<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Arcade, Bullet Heaven, Roguelike<br><br>**Description :** Breakout gameplay meets Survivors-like mechanics. Use your balls to destroy bricks, level up and pick upgrades to hold your ground against waves of incoming bricks and try to high score in this roguelite breakout. <br><br>**[Steam Page](https://store.steampowered.com/app/2468060/Breakout_Survivors/) - [Itch.io Page](https://axelvborn.itch.io/breakout-survivors)** |
 | --- | --- |
 </div>
 <div class="game">
 
-| <img class="trailerscreen" src="/img/breakoutsurvivors1.png"><img class="trailerscreen" src="/img/breakoutsurvivors2.png"> | <object class="trailer" data="https://www.youtube.com/embed/Gs_7y_-o010"></object> |
+| <img class="trailerscreen" src="/img/breakoutsurvivors1.png"><img class="trailerscreen" src="/img/breakoutsurvivors2.png"> | <object class="trailer" data="https://www.youtube.com/embed/hBGOvJjx-Cc"></object> |
 | --- | --- |
 </div>
 

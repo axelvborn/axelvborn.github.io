@@ -1,14 +1,14 @@
 # Portfolio
 ## Commercial Games
-### Breakout Survivors
+### Breaking Survivors
 <div class="game">
 
-| <img src="/img/breakoutsurvivorsvertcapsule.png" width="180" height="270"> | **Released :** 30th November 2023<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Arcade, Bullet Heaven, Roguelike<br><br>**Description :** Breakout gameplay meets Survivors-like mechanics. Use your balls to destroy bricks, level up and pick upgrades to hold your ground against waves of incoming bricks and try to high score in this roguelite breakout. <br><br>**[Steam Page](https://store.steampowered.com/app/2468060/Breakout_Survivors/) - [Itch.io Page](https://axelvborn.itch.io/breakout-survivors)** |
+| <img src="/img/breakingsurvivorsvertcapsule.png" width="180" height="270"> | **Released :** 30th November 2023<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Arcade, Bullet Heaven, Roguelite<br><br>**Description :** Retro brick breaking gameplay meets Survivors-like mechanics. Use your balls to destroy bricks, level up and pick upgrades to hold your ground against waves of incoming bricks and try to high score in this roguelite brick breaking game. <br><br>**[Steam Page](https://store.steampowered.com/app/2468060/Breaking_Survivors/) - [Itch.io Page](https://axelvborn.itch.io/breaking-survivors)** |
 | --- | --- |
 </div>
 <div class="game">
 
-| <img class="trailerscreen" src="/img/breakoutsurvivors1.png"><img class="trailerscreen" src="/img/breakoutsurvivors2.png"> | <object class="trailer" data="https://www.youtube.com/embed/hBGOvJjx-Cc"></object> |
+| <img class="trailerscreen" src="/img/breakingsurvivors1.png"><img class="trailerscreen" src="/img/breakingsurvivors2.png"> | <object class="trailer" data="https://www.youtube.com/embed/SRdaW2J6bPM"></object> |
 | --- | --- |
 </div>
 
@@ -61,7 +61,7 @@
 
 ### Ouroboros
 
-| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Currently on Hold - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
+| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
 | --- | --- |
 </div>
 <div class="game">

@@ -1,11 +1,20 @@
 # Game Jams
 #### [Back to Index](index.md)
+## 2025
+<div class="game">
+
+### (Organizer) GGJ 2025 Toulouse
+
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2025**<br>*Online - 160 participants  -  January 2025*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 10h of Live Streaming over the weekend.<br><br>[GGJ Site](https://globalgamejam.org/jam-sites/2025/global-game-jam-toulouse) |
+| --- | --- |
+</div>
+
 ## 2024
 <div class="game">
 
 ### (Organizer) GGJ 2024 Toulouse
 
-| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2022**<br>*Online - 70 participants  -  January 2024*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ Site](https://globalgamejam.org/jam-sites/2024/global-game-jam-toulouse) |
+| <img src="/img/ggjtgd.png" width="320" height="180"> | **Global Game Jam 2024**<br>*Online - 70 participants  -  January 2024*<br><br>**What I did :** Site Organizer / Main Organizer<br><br>**Description :** Organizing the jam, helping the participants, 8h of Live Streaming over the weekend.<br><br>[GGJ Site](https://globalgamejam.org/jam-sites/2024/global-game-jam-toulouse) |
 | --- | --- |
 </div>
 

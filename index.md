@@ -1,5 +1,17 @@
 # Portfolio
 ## Commercial Games
+### Snakeloop
+<div class="game">
+
+| <img src="/img/snakeloopvertcapsule.png" width="180" height="270"> | **Released :** 28th March 2025<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** Puzzle Game, Sokoban<br><br>**Description :** Snakeloop is a challenging puzzle game based on a simple idea: What if you took classic Snake but inverted the goal and made it so you have to form a loop by eating your own tail. <br><br>**[Steam Page](https://store.steampowered.com/app/3336460/Snakeloop/) - [Itch.io Page](https://axelvborn.itch.io/snakeloop)** |
+| --- | --- |
+</div>
+<div class="game">
+
+| <img class="trailerscreen" src="/img/snakeloop1.png"><img class="trailerscreen" src="/img/snakeloop2.png"> | <object class="trailer" data="https://www.youtube.com/embed/YLw_VzsQsCE"></object> |
+| --- | --- |
+</div>
+
 ### Breaking Survivors
 <div class="game">
 
@@ -59,13 +71,6 @@
 ## Other Prototypes
 <div class="game">
 
-### Ouroboros
-
-| <img src="/img/ouroboros.png" width="320" height="180"> | **Prototype**<br>*02/2023-Current - Team Size : 1*<br><br>**What I did :** Programming, Game Design, Level Design<br><br>**Description :** Puzzle Game inspired by Snake mechanics.<br><br>[Itch.io](https://axelvborn.itch.io/ouroboros)
-| --- | --- |
-</div>
-<div class="game">
-
 ### Untitled game
 
 | <img src="/img/escapegame.png" width="320" height="180"> | **Way too ambitious project**<br>*2018-2019 - Team Size : 2*<br><br>**What I did :** Programming, UI Design<br><br>**Description :** Racing/platformer game with an integrated level editor.<br><br>[Itch.io](https://axelvborn.itch.io/slidedemo)
@@ -80,6 +85,7 @@
 <img src="/img/flag_fr.png" width="21" height="14"> **Moddability - Making Moddable Games** @Toulouse Game Dev, November 2020 - [Youtube](https://www.youtube.com/watch?v=GSMNsUm3MR0)
 
 ### Others
+<img src="/img/flag_fr.png" width="21" height="14"> **Post-Mortem Interview of Breaking Survivors** @Toulouse Game Dev, January 2024 - [Youtube](https://www.youtube.com/watch?v=XTLvcyqzC6k)  
 <img src="/img/flag_fr.png" width="21" height="14"> **Round Table on Game Jams** @Toulouse Game Dev Twitch Channel, February 2023 - [Youtube](https://www.youtube.com/watch?v=9PM8xIIa0VM)<br>
 <img src="/img/flag_fr.png" width="21" height="14"> **What to do after a Game Jam (mini-talk)** @Global Game Jam 2022/Toulouse Game Dev, January 2022
 

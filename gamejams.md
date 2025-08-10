@@ -6,7 +6,7 @@
 
 ### Rhombus
 
-| <img src="/img/skewpong.png" width="320" height="180"> | **GMTK Game Jam 2025**<br>*Theme : Loop  -  Team size : 1  -  August 2025*<br>📊 *Top 5% Creativity, top 11% Enjoyment*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** 1st person puzzle game where you interact with panels to move platforms.<br><br>[Itch.io](https://axelvborn.itch.io/rhombus) |
+| <img src="/img/rhombus.png" width="320" height="180"> | **GMTK Game Jam 2025**<br>*Theme : Loop  -  Team size : 1  -  August 2025*<br>📊 *Top 5% Creativity, top 11% Enjoyment*<br><br>**What I did :** Programming, Game Design<br><br>**Description :** 1st person puzzle game where you interact with panels to move platforms.<br><br>[Itch.io](https://axelvborn.itch.io/rhombus) |
 | --- | --- |
 </div>
 <div class="game">

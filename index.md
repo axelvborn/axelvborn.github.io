@@ -48,7 +48,7 @@
 
 ### Alea Ludum Dare
 
-| <img src="/img/aleald.png" width="320" height="180"> | **Ludum Dare 53**<br>*Theme : Delivery  -  Team size : 1 -  April 2023*<br>📊 *9th Innovation (/491)*<br><br>**What I did :** Programming<br><br>**Description :** Browser Extension that adds a 'Random' sort to the LD Website + Web Page to get random LD games.<br><br>[Github](https://github.com/axelvborn/AleaLudumDare) - [Ludum Dare](https://ldjam.com/events/ludum-dare/53/alea-ludum-dare) - [Web Page](https://axelvborn.github.io/AleaLudumDare/)|
+| <img src="/img/aleald.png" width="320" height="180"> | **Ludum Dare 53**<br>*Theme : Delivery  -  Team size : 1 -  April 2023*<br>📊 ***9th Innovation** (/491)*<br><br>**What I did :** Programming<br><br>**Description :** Browser Extension that adds a 'Random' sort to the LD Website + Web Page to get random LD games.<br><br>[Github](https://github.com/axelvborn/AleaLudumDare) - [Ludum Dare](https://ldjam.com/events/ludum-dare/53/alea-ludum-dare) - [Web Page](https://axelvborn.github.io/AleaLudumDare/)|
 | --- | --- |
 </div>
 <div class="game">
@@ -62,7 +62,7 @@
 
 ### Delay Ludum Dare
 
-| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>📊 *6th Humor, 7th Innovation, 20th Theme (/805)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to delay the countdowns on Ludum Dare's website.<br><br>[Github](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
+| <img src="/img/delayld.png" width="320" height="180"> | **Ludum Dare 50**<br>*Theme : Delay the Inevitable  -  Team size : 1 -  April 2022*<br>📊 ***6th Humor, 7th Innovation**, 20th Theme (/805)*<br><br>**What I did :** Programming<br><br>**Description :** Web Extension to delay the countdowns on Ludum Dare's website.<br><br>[Github](https://github.com/axelvborn/DelayLD-WebExtension) - [Ludum Dare](https://ldjam.com/events/ludum-dare/50/delay-ludum-dare-browser-extension) |
 | --- | --- |
 </div>
 

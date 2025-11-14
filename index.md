@@ -100,7 +100,7 @@
 <img src="/img/flag_fr.png" width="21" height="14"> **Round Table on the Local Video Game Industry** @Forum Entreprendre dans la Culture Occitanie, November 2025<br>
 <img src="/img/flag_fr.png" width="21" height="14"> **Post-Mortem Interview of Breaking Survivors** @Toulouse Game Dev, January 2024 - [Youtube](https://www.youtube.com/watch?v=XTLvcyqzC6k)  
 <img src="/img/flag_fr.png" width="21" height="14"> **Round Table on Game Jams** @Toulouse Game Dev Twitch Channel, February 2023 - [Youtube](https://www.youtube.com/watch?v=9PM8xIIa0VM)<br>
-<img src="/img/flag_fr.png" width="21" height="14"> **What to do after a Game Jam (mini-talk)** @Global Game Jam 2022/Toulouse Game Dev, January 2022
+<img src="/img/flag_fr.png" width="21" height="14"> **What to do after a Game Jam (mini-talk)** @Global Game Jam 2022/Toulouse Game Dev, January 2022 & January 2024
 
 ## Modding
 ### Games I have modded on

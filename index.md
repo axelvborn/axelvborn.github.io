@@ -1,5 +1,17 @@
 # Portfolio
 ## Commercial Games
+### Rhombus
+<div class="game">
+
+| <img src="/img/rhombusvertcapsule.png" width="180" height="270"> | **Released :** 06th November 2025<br><br>**Platforms :** PC (Windows, Linux)<br><br>**Genre(s):** 1st-Person Puzzle Game<br><br>**Description :** Rhombus is a first-person puzzle game where you build your path through panels controlling platforms. Explore and find your way through a compact environment in this small metroidbrainia. <br><br>**[Steam Page](https://store.steampowered.com/app/3959950/Rhombus/) - [Itch.io Page](https://axelvborn.itch.io/rhombus)** |
+| --- | --- |
+</div>
+<div class="game">
+
+| <img class="trailerscreen" src="/img/rhombus1.png"><img class="trailerscreen" src="/img/rhombus2.png"> | <object class="trailer" data="https://www.youtube.com/embed/AqpisRKuhro"></object> |
+| --- | --- |
+</div>
+
 ### Snakeloop
 <div class="game">
 
@@ -85,6 +97,7 @@
 <img src="/img/flag_fr.png" width="21" height="14"> **Moddability - Making Moddable Games** @Toulouse Game Dev, November 2020 - [Youtube](https://www.youtube.com/watch?v=GSMNsUm3MR0)
 
 ### Others
+<img src="/img/flag_fr.png" width="21" height="14"> **Round Table on the Local Video Game Industry** @Forum Entreprendre dans la Culture Occitanie, November 2025<br>
 <img src="/img/flag_fr.png" width="21" height="14"> **Post-Mortem Interview of Breaking Survivors** @Toulouse Game Dev, January 2024 - [Youtube](https://www.youtube.com/watch?v=XTLvcyqzC6k)  
 <img src="/img/flag_fr.png" width="21" height="14"> **Round Table on Game Jams** @Toulouse Game Dev Twitch Channel, February 2023 - [Youtube](https://www.youtube.com/watch?v=9PM8xIIa0VM)<br>
 <img src="/img/flag_fr.png" width="21" height="14"> **What to do after a Game Jam (mini-talk)** @Global Game Jam 2022/Toulouse Game Dev, January 2022
